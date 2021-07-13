@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: black;
+
+}
+
+input {
+  background-color: white;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: gray;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.card1 {
+  display: inline-block;
+  width: 45%;
+  border-radius: 20px;
+  background-color: beige;
+  color: black;
+  text-align: center;
+}
